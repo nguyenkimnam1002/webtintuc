@@ -1,8 +1,13 @@
 <?php 
     // require_once(realpath(dirname(__FILE__) .'./content_footer.php'));
-    include_once('./content_footer.php');
+    include_once('./master_layout/content_footer.php');
 ?>
 <!-- jQuery --> 
+ 
+<script src="./assets/js/custom/slideshow.js"></script>
+
+<!-- <script src="./assets/js/custom/flatsome.js"></script>
+  <script src="./assets/js/custom/flatsome-lazy.js"></script> -->
 <script src="./assets/js/jquery.min.js"></script> 
 <!--jQuery easing--> 
 <script src="./assets/js/jquery.easing.1.3.js"></script> 

@@ -322,9 +322,9 @@ a:hover h3, a:hover h2 {
 	color: #e74c3c;
 }
 /*2-3 MISC */
-* {
+/* * {
 	border-radius: 0 !important;
-}
+} */
 *:focus {
 	outline: none;
 }
@@ -416,7 +416,7 @@ blockquote p {
 \*------------------------------------*/
 
 /*4-1 HEADER TOOLBAR */
-.header-toolbar {
+/* .header-toolbar {
 	font-size: 11px;
 	font-weight: 600;
 	color: #78899b;
@@ -436,7 +436,7 @@ blockquote p {
 .header-toolbar ul.list-inline li {
 	padding-right: 6px;
 	padding-left: 6px;
-}
+} */
 /*4-2 TIME & DATE*/
 #time-date {
 	text-align: right;
@@ -611,10 +611,10 @@ blockquote p {
 	font-size: 14px;
 }
 /*4-4 SITE LOGO*/
-.header {
+/* .header {
 	padding-top: 20px;
 	padding-bottom: 20px;
-}
+} */
 .navbar-brand {
 	width: 190px;
 	height: 46px;
@@ -1461,13 +1461,13 @@ none;
 .item:hover .title {
 	opacity: 1;
 }
-.title {
+/* .title {
 	display: table-cell;
 	vertical-align: middle;
 	opacity: 0;
 	transition: opacity 0.5s;
 	-webkit-transition: opacity 0.5s;
-}
+} */
 .expand {
 	transition: width 0.5s, height 0.5s, left 0.5s, top 0.5s;
 	-webkit-transition: width 0.5s, height 0.5s, left 0.5s, top 0.5s;
@@ -1476,7 +1476,7 @@ none;
 	left: 0 !important;
 	top: 0 !important;
 	z-index: 99;
-	text-indent: -9999px;
+	/* text-indent: -9999px; */
 }
 .more {
 	font-size: 14px;
@@ -1992,11 +1992,11 @@ table-bordered th, .table-bordered td {
     12-FOOTER
 \*------------------------------------*/
 
-footer {
+/* footer {
 	border-top: 3px solid #e74c3c;
 	margin: 20px 0 10px 0;
 	background-color: #3d566e;
-}
+} */
 footer .top-sec {
 	background-color: #3d566e;
 	padding-top: 20px;

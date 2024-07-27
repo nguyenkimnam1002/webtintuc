@@ -181,7 +181,7 @@ if (!isset($_SESSION['account_admin']) && basename($_SERVER['PHP_SELF']) != 'log
                             <img src="./Public/admin/dist/img/Long.jpg" class="img-circle elevation-2" alt="User Image">
                         </div>
                         <div class="info">
-                            <a href="#" class="d-block">Phạm Việt Long</a>
+                            <a href="#" class="d-block">Admin Nam VPC</a>
                         </div>
                     </div>
 
