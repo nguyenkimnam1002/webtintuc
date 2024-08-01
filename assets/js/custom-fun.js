@@ -253,7 +253,7 @@
        979, 3
      ],
      itemsTablet: [768, 3],
-     itemsMobile: [479, 1],
+     itemsMobile: [479, 2],
 
    });
 
@@ -276,7 +276,7 @@
        979, 2
      ],
      itemsTablet: [768, 2],
-     itemsMobile: [479, 1],
+     itemsMobile: [479, 2],
    });
    $("#owl-blog").owlCarousel({
      navigation: true,
